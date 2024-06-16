@@ -1,1 +1,2 @@
 filename : test_merge.txt
+master : add one line
